@@ -1,0 +1,4 @@
+Language / Group,Total Words,Total Tokens,Tokens per Word,OOV Rate
+Standard English,10,15,1.5,0.0
+Hindi (Devanagari),15,122,8.13,0.5492
+Code-Mixed (Hinglish),11,25,2.27,0.0

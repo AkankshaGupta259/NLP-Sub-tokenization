@@ -1,0 +1,13 @@
+Condition,Text Sample,Token Count,OOV Rate,Tokens/Word
+Clean,Natural language processing requires hig...,15,0.0,1.67
+Typo Noise,Natuarl language procseinsg requies rhig...,30,0.0,3.0
+OCR Noise,N@tural langu@ge pr0cessing requires hig...,25,0.0,1.47
+Clean,The quick brown fox jumps over the lazy ...,13,0.0,1.3
+Typo Noise,The quci kbrown fox jumps over the lza y...,15,0.0,1.5
+OCR Noise,The qu!ck br0wn fox jump5 over the 1azy ...,20,0.0,1.67
+Clean,Machine learning models are heavily depe...,14,0.0,1.0
+Typo Noise,aMchinel earningm oedls are heaivly edpe...,27,0.0,1.93
+OCR Noise,Mach!ne learning model5 are heav!ly dcpe...,24,0.0,1.33
+Clean,Standardization of subword units is esse...,16,0.0,1.6
+Typo Noise,tSandradization of subword unist is esse...,18,0.0,1.8
+OCR Noise,St@ndardization 0f subword un!ts is esse...,25,0.0,1.56
